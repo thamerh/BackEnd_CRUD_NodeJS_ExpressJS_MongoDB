@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+/.env 
+# in .env file JWT_SECRET=exemple_jwt_secret AND MONGO_URI=DataBaseURI
